@@ -1,6 +1,8 @@
 # my-restaurant
 
-This is the web site for my restaurant
+This is the web site for my restaurant§
+
+# scott's sea food
 
 # **The menu**
 
@@ -31,3 +33,7 @@ This is the web site for my restaurant
 
 to come and visit our restaurant just click on the link
 [welcom](https://www.google.com/maps/dir/31.9274568,35.9478861/best+sea+restaurants+in+london/@40.2863681,0.347923,4z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x4876052ddef3fe71:0x7f465130c3e2cba7!2m2!1d-0.1508345!2d51.5098953)
+
+## the wireframe
+
+![wire_frame](wireframe.png)
