@@ -4,29 +4,35 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      .myDiv {
-        border: 5px outset red;
-        background-color: lightcyan;
-        text-align: center;
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
+    <!-- <link rel="stylesheet" href="reset.css"/> -->
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png" />
+    <title>SCOTT'S</title>
   </head>
   <body>
-    <nav>
-      <h1>Scott's Restaurant</h1>
-      <p style="font-size: 30px"> <a href="./index.html"> Home </a><a href="./about.html">About</a> Sign in</p>
+  
+    <nav id="myHeader">
+
+      
       <img
         src="https://media-cdn.tripadvisor.com/media/photo-s/10/3a/50/00/scott-s-restaurant.jpg"
         alt="scott's logo"
-        width="200"
-        height="170"
+        width="290"
+        height="150"
       />
+      <h1>Scott's Restaurant</h1>
     </nav>
 
     <main>
+      <div class="homeBar">
+      <a href="./index.html"> Home </a><a href="./about.html">About</a> Book
+      </div>
+
       <div class="myDiv">Welcome to Scott's Richmond</div>
+      <table>
+
+      <tr>
+        <th>
       <p>
         The opening of Scott’s Richmond in September 2022 marks the beginning of
         a new chapter. Scott’s of Mount Street, Mayfair, has defined London
@@ -42,19 +48,23 @@
         shake up its new riverside setting with a cocktail of old-world elegance
         and glamorous destination dining.
       </p>
-
+      </th>
+      <th>
       <img
         src="https://media-cdn.tripadvisor.com/media/photo-s/11/85/17/dc/scott-s-exterior-by-paul.jpg"
         alt="scott's"
         width="900"
       />
+      </th>
+      </tr>
+      </table>
     </main>
 
     <footer>
-        contact us on <a href="https://www.facebook.com/scottsmayfair/">Facebook</a>
+      contact us on
+      <a href="https://www.facebook.com/scottsmayfair/">Facebook</a>
     </br>
-    copy rights scott's/eyad
+      ©copy rights scott's/eyad 2022
     </footer>
-    
   </body>
 </html>
