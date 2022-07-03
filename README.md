@@ -36,8 +36,8 @@ to come and visit our restaurant just click on the link
 
 ## the wireframe homePage
 
-![wire_frame](wireframe-homePage.png)
+![wire_frame](images/wireframe-homePage.png)
 
 ## the wireframe aboutPage
 
-![wire_frame](wireframe-about.png)
+![wire_frame](images/wireframe-about.png)
